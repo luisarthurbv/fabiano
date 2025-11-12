@@ -1,0 +1,7 @@
+sites:
+    https://www.megaleiloes.com.br/
+    https://www.portalzuk.com.br/
+    https://www.santanderimoveis.com.br/
+    https://venda-imoveis.caixa.gov.br/sistema/busca-imovel.asp
+    https://www.itau.com.br/imoveis-itau
+    https://vitrinebradesco.com.br/

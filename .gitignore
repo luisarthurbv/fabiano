@@ -1,0 +1,47 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Caches and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Type checkers
+.pyre/
+.pytype/
+
+# Editors/OS
+.idea/
+.vscode/
+.DS_Store
+.python-version
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Playwright
+playwright-report/
+test-results/
+.playwright/
+
+resultados.csv
